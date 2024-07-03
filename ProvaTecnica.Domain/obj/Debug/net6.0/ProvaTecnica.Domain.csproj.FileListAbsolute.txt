@@ -1,0 +1,12 @@
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\bin\Debug\net6.0\ProvaTecnica.Domain.deps.json
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\bin\Debug\net6.0\ProvaTecnica.Domain.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\bin\Debug\net6.0\ProvaTecnica.Domain.pdb
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.AssemblyInfoInputs.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.AssemblyInfo.cs
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\refint\ProvaTecnica.Domain.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.pdb
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ref\ProvaTecnica.Domain.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Domain\obj\Debug\net6.0\ProvaTecnica.Domain.csproj.AssemblyReference.cache

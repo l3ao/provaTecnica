@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f+gbZRqQ49wdmt9dqpFJpSLNYZOfUYVWlxSsIFxcn9U=",
+  "Source": "ProvaTecnica.Api",
+  "BasePath": "_content/ProvaTecnica.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

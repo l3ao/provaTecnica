@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Api", "ProvaTecnica.Api\ProvaTecnica.Api.csproj", "{8349CC11-C582-4010-9C13-8DF40805C5F8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{13A3ED62-E259-4EE2-BB55-2147EF95314B} = {13A3ED62-E259-4EE2-BB55-2147EF95314B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Application", "ProvaTecnica.Application\ProvaTecnica.Application.csproj", "{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34747323-8F33-41A0-A2CB-FB4995832376} = {34747323-8F33-41A0-A2CB-FB4995832376}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Domain", "ProvaTecnica.Domain\ProvaTecnica.Domain.csproj", "{34747323-8F33-41A0-A2CB-FB4995832376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Infra.Data", "ProvaTecnica.Infra.Data\ProvaTecnica.Infra.Data.csproj", "{5FBDBC13-689C-4A8D-8995-89118D90640B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34747323-8F33-41A0-A2CB-FB4995832376} = {34747323-8F33-41A0-A2CB-FB4995832376}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaTecnica.Infra.Ioc", "ProvaTecnica.Infra.Ioc\ProvaTecnica.Infra.Ioc.csproj", "{13A3ED62-E259-4EE2-BB55-2147EF95314B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7} = {803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}
+		{34747323-8F33-41A0-A2CB-FB4995832376} = {34747323-8F33-41A0-A2CB-FB4995832376}
+		{5FBDBC13-689C-4A8D-8995-89118D90640B} = {5FBDBC13-689C-4A8D-8995-89118D90640B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8349CC11-C582-4010-9C13-8DF40805C5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8349CC11-C582-4010-9C13-8DF40805C5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8349CC11-C582-4010-9C13-8DF40805C5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8349CC11-C582-4010-9C13-8DF40805C5F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803C9B72-CDDC-414C-A3E2-21B48E2EE5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34747323-8F33-41A0-A2CB-FB4995832376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34747323-8F33-41A0-A2CB-FB4995832376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34747323-8F33-41A0-A2CB-FB4995832376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34747323-8F33-41A0-A2CB-FB4995832376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBDBC13-689C-4A8D-8995-89118D90640B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBDBC13-689C-4A8D-8995-89118D90640B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBDBC13-689C-4A8D-8995-89118D90640B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBDBC13-689C-4A8D-8995-89118D90640B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13A3ED62-E259-4EE2-BB55-2147EF95314B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A3ED62-E259-4EE2-BB55-2147EF95314B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A3ED62-E259-4EE2-BB55-2147EF95314B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A3ED62-E259-4EE2-BB55-2147EF95314B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

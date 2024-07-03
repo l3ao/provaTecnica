@@ -1,0 +1,17 @@
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.AssemblyInfo.cs
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Infra.Data.deps.json
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Infra.Data.runtimeconfig.json
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Infra.Data.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Infra.Data.pdb
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\refint\ProvaTecnica.Infra.Data.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.pdb
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.genruntimeconfig.cache
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ref\ProvaTecnica.Infra.Data.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Domain.dll
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\bin\Debug\net6.0\ProvaTecnica.Domain.pdb
+C:\Users\Leandro Chaves\RiderProjects\ProvaTecnica.Api\ProvaTecnica.Infra.Data\obj\Debug\net6.0\ProvaTecnica.Infra.Data.csproj.CopyComplete

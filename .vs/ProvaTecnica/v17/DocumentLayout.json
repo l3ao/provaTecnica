@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3ED62-E259-4EE2-BB55-2147EF95314B}|ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj|c:\\users\\leandro chaves\\riderprojects\\provatecnica.api\\provatecnica.infra.ioc\\provatecnica.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13A3ED62-E259-4EE2-BB55-2147EF95314B}|ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj|solutionrelative:provatecnica.infra.ioc\\provatecnica.infra.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBDBC13-689C-4A8D-8995-89118D90640B}|ProvaTecnica.Infra.Data\\ProvaTecnica.Infra.Data.csproj|c:\\users\\leandro chaves\\riderprojects\\provatecnica.api\\provatecnica.infra.data\\mapping\\v1\\companymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBDBC13-689C-4A8D-8995-89118D90640B}|ProvaTecnica.Infra.Data\\ProvaTecnica.Infra.Data.csproj|solutionrelative:provatecnica.infra.data\\mapping\\v1\\companymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34747323-8F33-41A0-A2CB-FB4995832376}|ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj|c:\\users\\leandro chaves\\riderprojects\\provatecnica.api\\provatecnica.domain\\provatecnica.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34747323-8F33-41A0-A2CB-FB4995832376}|ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj|solutionrelative:provatecnica.domain\\provatecnica.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3ED62-E259-4EE2-BB55-2147EF95314B}|ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj|c:\\users\\leandro chaves\\riderprojects\\provatecnica.api\\provatecnica.infra.ioc\\servicecollection\\v1\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3ED62-E259-4EE2-BB55-2147EF95314B}|ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj|solutionrelative:provatecnica.infra.ioc\\servicecollection\\v1\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProvaTecnica.Domain",
+              "DocumentMoniker": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj",
+              "RelativeDocumentMoniker": "ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj",
+              "ToolTip": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj",
+              "RelativeToolTip": "ProvaTecnica.Domain\\ProvaTecnica.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T01:56:13.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyMap.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Data\\Mapping\\v1\\CompanyMap.cs",
+              "RelativeDocumentMoniker": "ProvaTecnica.Infra.Data\\Mapping\\v1\\CompanyMap.cs",
+              "ToolTip": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Data\\Mapping\\v1\\CompanyMap.cs",
+              "RelativeToolTip": "ProvaTecnica.Infra.Data\\Mapping\\v1\\CompanyMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:56:07.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProvaTecnica.Infra.Ioc",
+              "DocumentMoniker": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj",
+              "RelativeDocumentMoniker": "ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj",
+              "ToolTip": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj",
+              "RelativeToolTip": "ProvaTecnica.Infra.Ioc\\ProvaTecnica.Infra.Ioc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T01:49:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Ioc\\ServiceCollection\\v1\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ProvaTecnica.Infra.Ioc\\ServiceCollection\\v1\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Leandro Chaves\\RiderProjects\\ProvaTecnica.Api\\ProvaTecnica.Infra.Ioc\\ServiceCollection\\v1\\DependencyInjection.cs",
+              "RelativeToolTip": "ProvaTecnica.Infra.Ioc\\ServiceCollection\\v1\\DependencyInjection.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:40:34.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
