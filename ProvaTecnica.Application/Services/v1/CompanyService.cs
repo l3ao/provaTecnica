@@ -1,6 +1,5 @@
 using AutoMapper;
 using MediatR;
-using ProvaTecnica.Domain.Entities;
 using TechnicalTest.Application.Companies.Commands.v1;
 using TechnicalTest.Application.Companies.Queries.v1;
 using TechnicalTest.Application.Dtos.v1;
@@ -41,14 +40,14 @@ public sealed class CompanyService : ICompanyService
         return _mapper.Map<CompanyDto>(result);
     }
 
-    public async Task<CompanyDto> CreateAsync(CompanyDto companyDto)
+    public async Task<CompanyDto> CreateAsync(CompanyCreateDto companyDto)
     {
         var companyCreateCommand = _mapper.Map<CompanyCreateCommand>(companyDto);
         var result = await _mediator.Send(companyCreateCommand);
         return _mapper.Map<CompanyDto>(result);
     }
 
-    public async Task UpdateAsync(int id, CompanyDto companyDto)
+    public async Task UpdateAsync(int id, CompanyUpdateDto companyDto)
     {
         companyDto.Id = id;
         var companyUpdateCommand = _mapper.Map<CompanyUpdateCommand>(companyDto);

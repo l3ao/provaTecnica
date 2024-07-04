@@ -40,17 +40,17 @@ public class ClientService : IClientService
         return _mapper.Map<ClientDto>(result);
     }
 
-    public async Task<ClientDto> CreateAsync(ClientDto clientDto)
+    public async Task<ClientDto> CreateAsync(ClientCreateDto clientCreateDto)
     {
-        var clientCreateCommand = _mapper.Map<ClientCreateCommand>(clientDto);
+        var clientCreateCommand = _mapper.Map<ClientCreateCommand>(clientCreateDto);
         var result = await _mediator.Send(clientCreateCommand);
         return _mapper.Map<ClientDto>(result);
     }
 
-    public async Task<ClientDto> UpdateAsync(int id, ClientDto clientDto)
+    public async Task<ClientDto> UpdateAsync(int id, ClientUpdateDto clientUpdateDto)
     {
-        clientDto.Id = id;
-        var clientUpdateCommand = _mapper.Map<ClientUpdateCommand>(clientDto);
+        clientUpdateDto.Id = id;
+        var clientUpdateCommand = _mapper.Map<ClientUpdateCommand>(clientUpdateDto);
         var result = await _mediator.Send(clientUpdateCommand);
         return _mapper.Map<ClientDto>(result);
     }

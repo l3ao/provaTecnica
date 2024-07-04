@@ -36,25 +36,25 @@ public class CompaniesController : ControllerBase
     }
 
     [HttpPost]
-    public async Task<ActionResult> CreateCompanyAsync([FromBody] CompanyDto? companyDto)
+    public async Task<ActionResult> CreateCompanyAsync([FromBody] CompanyCreateDto? companyCreateDto)
     {
-        if (companyDto == null)
+        if (companyCreateDto == null)
             return BadRequest(new { errorMessage = "Dados inválidos." });
 
-        var company = await _companyService.CreateAsync(companyDto);
+        var company = await _companyService.CreateAsync(companyCreateDto);
         
         return StatusCode(StatusCodes.Status201Created,
             new { successMessage = "Sucesso ao criar empresa.", company = company });
     }
 
     [HttpPut]
-    public async Task<ActionResult> UpdateCompanyAsync(int id, [FromBody] CompanyDto? companyDto)
+    public async Task<ActionResult> UpdateCompanyAsync(int id, [FromBody] CompanyUpdateDto? companyCreateDto)
     {
-        if (companyDto == null)
+        if (companyCreateDto == null)
             return BadRequest(new { errorMessage = "Dados inválidos." });
 
-        await _companyService.UpdateAsync(id, companyDto);
-        return Ok(companyDto);
+        await _companyService.UpdateAsync(id, companyCreateDto);
+        return Ok(companyCreateDto);
     }
 
     [HttpDelete("{id}")]

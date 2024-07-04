@@ -12,39 +12,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a25ae6-12ad-4ee8-8274-b8538d904861" name="Changes" comment="">
+    <list default="true" id="55a25ae6-12ad-4ee8-8274-b8538d904861" name="Changes" comment="atualizacoes">
+      <change afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/ClientCreateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/ClientUpdateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/CompanyCreateDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/CompanyUpdateDto.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica.Api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica.Api/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/AutoMapper.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/Controllers/v1/ClientsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/Controllers/v1/ClientsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/Controllers/v1/CompaniesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/Controllers/v1/CompaniesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/System.Memory.Data.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Api.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.model.nuget.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ref/ProvaTecnica.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ref/ProvaTecnica.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/refint/ProvaTecnica.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/refint/ProvaTecnica.Api.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientCreateCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientCreateCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientRemoveCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientRemoveCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientUpdateCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Commands/v1/ClientUpdateCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Handlers/v1/ClientCreateCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Handlers/v1/ClientCreateCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Handlers/v1/ClientUpdateCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Clients/Handlers/v1/ClientUpdateCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/ClientDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/ClientDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/CompanyDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Dtos/v1/CompanyDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Interfaces/v1/IClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Interfaces/v1/IClientService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Interfaces/v1/ICompanyService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Interfaces/v1/ICompanyService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Profiles/v1/ClientDtoProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Profiles/v1/ClientProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Profiles/v1/CompanyDtoProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Profiles/v1/CompanyProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Services/v1/ClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Services/v1/ClientService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/Services/v1/CompanyService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/Services/v1/CompanyService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ProvaTecnica.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ref/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/ref/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/refint/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Application/obj/Debug/net6.0/refint/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/Entities/v1/Client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/Entities/v1/Client.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/bin/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/bin/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ref/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/ref/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/refint/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Domain/obj/Debug/net6.0/refint/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/ServiceCollection/v1/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/ServiceCollection/v1/DependencyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Domain.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProvaTecnica.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +106,14 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2ibSAefq1qMLOdlPU1bdyWhuKfC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -213,15 +257,38 @@
       <workItem from="1719881089268" duration="2395000" />
       <workItem from="1719965812981" duration="6137000" />
       <workItem from="1720037396407" duration="9978000" />
-      <workItem from="1720050372680" duration="641000" />
+      <workItem from="1720050372680" duration="5332000" />
     </task>
+    <task id="LOCAL-00001" summary="atualizacoes">
+      <option name="closed" value="true" />
+      <created>1720051566357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720051566357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="atualizacoes" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacoes" />
   </component>
 </project>

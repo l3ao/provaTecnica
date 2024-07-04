@@ -6,12 +6,12 @@ using TechnicalTest.Application.Dtos.v1;
 
 namespace TechnicalTest.Application.Profiles.v1;
 
-public class CompanyDtoProfile : Profile
+public class CompanyProfile : Profile
 {
-    public CompanyDtoProfile()
+    public CompanyProfile()
     {
         CreateMap<CompanyDto, Company>().ReverseMap();
-        CreateMap<CompanyDto, CompanyCreateCommand>();
-        CreateMap<CompanyDto, CompanyUpdateCommand>();
+        CreateMap<CompanyCreateDto, CompanyCreateCommand>();
+        CreateMap<CompanyUpdateDto, CompanyUpdateCommand>();
     }
 }

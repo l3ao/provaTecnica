@@ -38,7 +38,7 @@ public sealed class Client
     }
 
     public void Update(string name, string? document, string? address, string? phoneNumber,
-        int companyId, Company? company)
+        int? companyId, Company? company)
     {
         Name = name;
         Document = document;

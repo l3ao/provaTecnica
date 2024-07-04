@@ -5,13 +5,13 @@ using TechnicalTest.Application.Dtos.v1;
 
 namespace TechnicalTest.Application.Profiles.v1;
 
-public sealed class ClientDtoProfile : Profile
+public sealed class ClientProfile : Profile
 {
-    public ClientDtoProfile()
+    public ClientProfile()
     {
         CreateMap<ClientDto, Client>().ReverseMap();
-        CreateMap<ClientDto, ClientCreateCommand>();
-        CreateMap<ClientDto, ClientUpdateCommand>();
+        CreateMap<ClientCreateDto, ClientCreateCommand>();
+        CreateMap<ClientUpdateDto, ClientUpdateCommand>();
         CreateMap<Company, CompanyDto>();
     }
 }

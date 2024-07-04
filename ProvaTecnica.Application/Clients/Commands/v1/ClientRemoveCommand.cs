@@ -1,6 +1,5 @@
 using System.ComponentModel.DataAnnotations;
 using MediatR;
-using ProvaTecnica.Domain.Entities.v1;
 
 namespace TechnicalTest.Application.Clients.Commands.v1;
 

@@ -36,7 +36,7 @@ public class ClientsController : ControllerBase
     }
     
     [HttpPost]
-    public async Task<ActionResult<ClientDto>> CreateClientAsync([FromBody] ClientDto clientDto)
+    public async Task<ActionResult<ClientDto>> CreateClientAsync([FromBody] ClientCreateDto clientDto)
     {
         if (clientDto == null)
             return BadRequest(new { errorMessage = "Dados inválidos." });
@@ -48,7 +48,7 @@ public class ClientsController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public async Task<ActionResult<ClientDto>> UpdateClientAsync(int id, [FromBody] ClientDto clientDto)
+    public async Task<ActionResult<ClientDto>> UpdateClientAsync(int id, [FromBody] ClientUpdateDto clientDto)
     {
         if (clientDto == null)
             return BadRequest(new { errorMessage = "Dados inválidos." });
@@ -65,6 +65,6 @@ public class ClientsController : ControllerBase
             return NotFound(new { errorMessage = "Empresa não encontrada." });
 
         await _clientService.RemoveAsync(id);
-        return Ok(company);
+        return Ok(new { successMessage = "Sucesso ao excluir o cliente." });
     }
 }

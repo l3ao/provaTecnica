@@ -27,8 +27,8 @@ public static class DependencyInjection
         services.AddScoped<ICompanyService, CompanyService>();
         services.AddScoped<IClientService, ClientService>();
 
-        services.AddAutoMapper(typeof(ClientDtoProfile));
-        services.AddAutoMapper(typeof(CompanyDtoProfile));
+        services.AddAutoMapper(typeof(ClientProfile));
+        services.AddAutoMapper(typeof(CompanyProfile));
 
         var myhandlers = AppDomain.CurrentDomain.Load("ProvaTecnica.Application");
         services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(myhandlers));
