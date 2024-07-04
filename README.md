@@ -1,5 +1,5 @@
 # API de Gerenciamento de Clientes
-Esta API fornece endpoints para listar, adicionar, editar e remover clientes cadastrados.
+Esta API fornece endpoints para listar, adicionar, editar e remover clientes cadastrados. Feito em .NET 6.0
 
 ## Endpoints
 ### 1. Listar Clientes
