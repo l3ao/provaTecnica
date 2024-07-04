@@ -12,14 +12,30 @@ Descrição: Retorna a lista de todos os clientes cadastrados.
 ```
 [
     {
-        "id": 1,
-        "nome": "João Silva",
-        "email": "joao.silva@example.com"
+      "id": 0,
+      "nome": "string",
+      "documento": "string",
+      "endereco": "string",
+      "numeroTelefone": "string",
+      "empresaId": 0,
+      "empresa": {
+        "id": 0,
+        "nome": "string",
+        "porte": 0
+      }
     },
     {
-        "id": 2,
-        "nome": "Maria Souza",
-        "email": "maria.souza@example.com"
+      "id": 0,
+      "nome": "string",
+      "documento": "string",
+      "endereco": "string",
+      "numeroTelefone": "string",
+      "empresaId": 0,
+      "empresa": {
+        "id": 0,
+        "nome": "string",
+        "porte": 0
+      }
     }
 ]
 ```
@@ -32,16 +48,24 @@ Descrição: Adiciona um novo cliente.
 **Corpo da Requisição:**
 ```
 {
-    "nome": "Nome do Cliente",
-    "email": "email@example.com"
+  "nome": "string",
+  "documento": "string",
+  "endereco": "string",
+  "numeroTelefone": "string",
+  "empresaId": 0
 }
 ```
 **Resposta de Sucesso:**
 ```
 {
-    "id": 3,
-    "nome": "Nome do Cliente",
-    "email": "email@example.com"
+  "successMessage": "Sucesso ao criar o cliente.",
+  "client": {
+    "nome": "João",
+    "documento": "0123456789",
+    "endereco": "RUA A C 01",
+    "numeroTelefone": "999999999",
+    "empresaId": 1
+  }
 }
 ```
 
@@ -53,16 +77,25 @@ Descrição: Edita as informações de um cliente existente.
 **Corpo da Requisição:**
 ```
 {
-    "nome": "Novo Nome do Cliente",
-    "email": "novo.email@example.com"
+  "nome": "string",
+  "documento": "string",
+  "endereco": "string",
+  "numeroTelefone": "string",
+  "empresaId": 0
 }
 ```
 **Resposta de Sucesso:**
 ```
 {
+  "successMessage": "Sucesso ao criar o cliente.",
+  "client": {
     "id": 1,
-    "nome": "Novo Nome do Cliente",
-    "email": "novo.email@example.com"
+    "nome": "João Silva",
+    "documento": "0123456789",
+    "endereco": "RUA B C 01",
+    "numeroTelefone": "999999999",
+    "empresaId": 2
+  }
 }
 ```
 ### 4. Remover Cliente
@@ -73,6 +106,6 @@ Descrição: Remove um cliente existente.
 **Resposta de Sucesso:**
 ```
 {
-    "mensagem": "Cliente removido com sucesso"
+  "successMessage": "Sucesso ao excluir o cliente."
 }
 ```
