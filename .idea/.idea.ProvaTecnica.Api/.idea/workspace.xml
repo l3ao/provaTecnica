@@ -12,16 +12,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55a25ae6-12ad-4ee8-8274-b8538d904861" name="Changes" comment="" />
+    <list default="true" id="55a25ae6-12ad-4ee8-8274-b8538d904861" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica.Api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica.Api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProvaTecnica/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/AutoMapper.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/System.Memory.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Api.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/Debug/net6.0/ProvaTecnica.Presentation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Api.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/ProvaTecnica.Presentation.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.model.nuget.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Api/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Data/obj/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/bin/Debug/net6.0/ProvaTecnica.Infra.Data.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Infra.Ioc/obj/Debug/net6.0/ProvaTecnica.Infra.Ioc.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProvaTecnica.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ProvaTecnica.Api.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ProvaTecnica.Application/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ProvaTecnica.Infra.Data/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/c967158b960823ccfcb19f1ef56426e2fd38eb3f/src/Mvc/Mvc.Core/src/CreatedResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/Microsoft.Extensions.DependencyInjection/src/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProvaTecnica.Api/Controllers/v1/CompaniesController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -32,12 +76,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.ProvaTecnica.Api.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CodeLensConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -160,7 +207,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719757641132</updated>
-      <workItem from="1719757642153" duration="3288000" />
+      <workItem from="1719757642153" duration="2633000" />
+      <workItem from="1719866354385" duration="11043000" />
+      <workItem from="1719879074509" duration="2000" />
+      <workItem from="1719881089268" duration="2395000" />
+      <workItem from="1719965812981" duration="6137000" />
+      <workItem from="1720037396407" duration="9978000" />
+      <workItem from="1720050372680" duration="641000" />
     </task>
     <servers />
   </component>
